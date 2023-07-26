@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MoneyCurrencyAPI.Application/1.0.0": {
+        "dependencies": {
+          "MoneyCurrencyAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MoneyCurrencyAPI.Application.dll": {}
+        }
+      },
+      "MoneyCurrencyAPI.Domain/1.0.0": {
+        "runtime": {
+          "MoneyCurrencyAPI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoneyCurrencyAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MoneyCurrencyAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

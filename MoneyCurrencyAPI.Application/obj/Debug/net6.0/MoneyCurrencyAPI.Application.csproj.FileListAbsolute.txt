@@ -1,0 +1,15 @@
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Application\bin\Debug\net6.0\MoneyCurrencyAPI.Application.deps.json
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Application\bin\Debug\net6.0\MoneyCurrencyAPI.Application.dll
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Application\bin\Debug\net6.0\MoneyCurrencyAPI.Application.pdb
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Application\bin\Debug\net6.0\MoneyCurrencyAPI.Domain.dll
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Application\bin\Debug\net6.0\MoneyCurrencyAPI.Domain.pdb
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Application\obj\Debug\net6.0\MoneyCurrencyAPI.Application.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Application\obj\Debug\net6.0\MoneyCurrencyAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Application\obj\Debug\net6.0\MoneyCurrencyAPI.Application.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Application\obj\Debug\net6.0\MoneyCurrencyAPI.Application.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Application\obj\Debug\net6.0\MoneyCurrencyAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Application\obj\Debug\net6.0\MoneyCurrencyAPI.Application.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Application\obj\Debug\net6.0\MoneyCurrencyAPI.Application.dll
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Application\obj\Debug\net6.0\refint\MoneyCurrencyAPI.Application.dll
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Application\obj\Debug\net6.0\MoneyCurrencyAPI.Application.pdb
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Application\obj\Debug\net6.0\ref\MoneyCurrencyAPI.Application.dll

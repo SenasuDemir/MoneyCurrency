@@ -1,0 +1,17 @@
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\obj\Debug\net6.0\MoneyCurrencyAPI.Persistence.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\obj\Debug\net6.0\MoneyCurrencyAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\obj\Debug\net6.0\MoneyCurrencyAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\obj\Debug\net6.0\MoneyCurrencyAPI.Persistence.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\obj\Debug\net6.0\MoneyCurrencyAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\bin\Debug\net6.0\MoneyCurrencyAPI.Persistence.deps.json
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\bin\Debug\net6.0\MoneyCurrencyAPI.Persistence.dll
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\bin\Debug\net6.0\MoneyCurrencyAPI.Persistence.pdb
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\bin\Debug\net6.0\MoneyCurrencyAPI.Application.dll
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\bin\Debug\net6.0\MoneyCurrencyAPI.Domain.dll
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\bin\Debug\net6.0\MoneyCurrencyAPI.Application.pdb
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\bin\Debug\net6.0\MoneyCurrencyAPI.Domain.pdb
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\obj\Debug\net6.0\MoneyCurrencyAPI.Persistence.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\obj\Debug\net6.0\MoneyCurrencyAPI.Persistence.dll
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\obj\Debug\net6.0\refint\MoneyCurrencyAPI.Persistence.dll
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\obj\Debug\net6.0\MoneyCurrencyAPI.Persistence.pdb
+C:\Users\MONSTER\Desktop\MoneyCurrencyAPI.Persistence\obj\Debug\net6.0\ref\MoneyCurrencyAPI.Persistence.dll

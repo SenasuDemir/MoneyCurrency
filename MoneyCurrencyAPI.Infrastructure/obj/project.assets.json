@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "MoneyCurrencyAPI.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MoneyCurrencyAPI.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoneyCurrencyAPI.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoneyCurrencyAPI.Application.dll": {}
+        }
+      },
+      "MoneyCurrencyAPI.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MoneyCurrencyAPI.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoneyCurrencyAPI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoneyCurrencyAPI.Application/1.0.0": {
+      "type": "project",
+      "path": "../MoneyCurrencyAPI.Application/MoneyCurrencyAPI.Application.csproj",
+      "msbuildProject": "../MoneyCurrencyAPI.Application/MoneyCurrencyAPI.Application.csproj"
+    },
+    "MoneyCurrencyAPI.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MoneyCurrencyAPI.Domain/MoneyCurrencyAPI.Domain.csproj",
+      "msbuildProject": "../MoneyCurrencyAPI.Domain/MoneyCurrencyAPI.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "MoneyCurrencyAPI.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MONSTER\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\MoneyCurrencyAPI.Infrastructure\\MoneyCurrencyAPI.Infrastructure.csproj",
+      "projectName": "MoneyCurrencyAPI.Infrastructure",
+      "projectPath": "C:\\Users\\MONSTER\\Desktop\\MoneyCurrencyAPI.Infrastructure\\MoneyCurrencyAPI.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\MONSTER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MONSTER\\Desktop\\MoneyCurrencyAPI.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\MONSTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\MONSTER\\Desktop\\MoneyCurrencyAPI.Application\\MoneyCurrencyAPI.Application.csproj": {
+              "projectPath": "C:\\Users\\MONSTER\\Desktop\\MoneyCurrencyAPI.Application\\MoneyCurrencyAPI.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
